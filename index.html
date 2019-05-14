@@ -1,0 +1,25 @@
+---
+layout: default
+title: "END Epistolary Editions"
+---
+<div class="introduction">
+  <h1>About</h1>
+
+<p>END Epistolary Editions presents a selection of unique or rare eighteenth-century epistolary novels held by Penn Libraries' Kislak Center for Special Collections. The texts have been prepared by Alice McGrath and other members of the <a href="http://earlynovels.org">Early Novels Database</a> team from digital surrogates created by the Schoenberg Center for Electronic Text and Image. While these editions are designed for reading and annotation, you can download our <a href="https://github.com/earlynovels/digital-collection">corpus of 75 novels here</a>. These editions and this site are built using <a href="https://minicomp.github.io/ed/">Ed</a>, a jekyll theme for static digital editions in line with principles of <a href="http://go-dh.github.io/mincomp/">minimal computing</a>.</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Novels</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        <i>{{ item.title }}</i>, by {{ item.author}} ({{ item.first-pub}})
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
