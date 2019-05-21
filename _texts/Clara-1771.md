@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Letters from Clara: or, the Effusions of the Heart."
+title: "Letters from Clara: or, the Effusions of the Heart"
 author: anonymous
 editor: Ina Chen
 rights: Public Domain
@@ -47,29 +47,24 @@ toc:
 
 ---
 
-## Editor's note
-This text has been OCRed and corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/992007833503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
-
----
-
 ![title page Clara](https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=print_pr3291_c52_l47_1771_body0005&svc.level=3&svc.rotate=0)
+
+<a href="#editors-note">Digital editor's note</a>
 
 <a id="volume-i" />
 
-<p class="centered large">LETTERS<br>
-FROM<br>
-CLARA:<br>
-OR, THE<br>
-EFFUSIONS<br>
-OF THE<br>
-HEART.</p>
+<p class="centered large">LETTERS FROM CLARA: OR, THE EFFUSIONS OF THE HEART.</p>
 
 <p class="centered">VOL. I. </p>
 
-<p class="centered">LONDON:</p>
-
-<p class="centered small">Printed for J. Wilkie, No. 71, in, St. Paul’s<br>
+<p class="centered small">LONDON: Printed for J. Wilkie, No. 71, in, St. Paul’s<br>
 Church Yard. 1771.</p>
+
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
 
 ---
 
@@ -934,3 +929,8 @@ Friend, and humble servant,
 FIDELIA.
 
 FINIS.
+
+---
+
+## Editor's note
+This text has been OCRed and corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/992007833503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).

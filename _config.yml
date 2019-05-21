@@ -1,8 +1,8 @@
 # Built with Jekyll 3.2.0
 remote_theme: minicomp/ed
 # Setup
-title:               END Digital Editions
-tagline:             'Rare epistolary novels'
+title:               END Epistolary Editions
+tagline:             'Rare novels in letters'
 description:         'Eighteenth-century British fiction held by Penn Libraries.'
 url:                 'https://earlynovels.github.io'
 baseurl:             '/end-editions'
