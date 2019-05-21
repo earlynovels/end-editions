@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "The Royal Adventurers; or, the Conflict of Love: A Novel"
-author: Anonymous
+author: anonymous
 editor: Maya Deutsch, Alice McGrath
 rights: Public Domain
 source: UPenn Digital Collection of British and American Fiction, 1660-1830
@@ -37,7 +37,7 @@ toc:
 ---
 
 ## Editor's note
-This text has been OCRed and hand-corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/991610763503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
+This text has been OCRed and corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/991610763503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
 
 ---
 <p class="centered large">THE<br>ROYAL ADVENTURERS;<br>OR, THE<br>CONFLICT of LOVE.</p>

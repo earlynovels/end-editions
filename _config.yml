@@ -4,7 +4,7 @@ remote_theme: minicomp/ed
 title:               END Digital Editions
 tagline:             'Rare epistolary novels'
 description:         'Eighteenth-century British fiction held by Penn Libraries.'
-url:                 'http://earlynovels.github.io'
+url:                 'https://earlynovels.github.io'
 baseurl:             '/end-editions'
 
 # About/contact

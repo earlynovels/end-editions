@@ -5,6 +5,7 @@ author: Treyssac de Vergy
 editor: Ina Chen
 rights: Public Domain
 source: UPenn Digital Collection of British and American Fiction, 1660-1830
+source-url: http://dla.library.upenn.edu/dla/print/detail.html?id=PRINT_99607863503681
 publication-date: 2019
 first-pub: 1770
 toc:
@@ -60,7 +61,7 @@ toc:
 ---
 
 ## Editor's note
-This text has been OCRed and hand-corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/99607863503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
+This text has been OCRed and corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/99607863503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
 
 ---
 

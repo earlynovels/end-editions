@@ -5,7 +5,7 @@ author: anonymous
 editor: Ina Chen
 rights: Public Domain
 source: UPenn Digital Collection of British and American Fiction, 1660-1830
-source-url: http://dla.library.upenn.edu/dla/print/detail.html?id=PRINT_99607863503681
+source-url: http://dla.library.upenn.edu/dla/print/detail.html?id=PRINT_992007833503681
 publication-date: 2019
 first-pub: 1771
 toc:
@@ -48,9 +48,11 @@ toc:
 ---
 
 ## Editor's note
-This text has been OCRed and hand-corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/99607863503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
+This text has been OCRed and corrected from the [digital surrogate](http://hdl.library.upenn.edu/1017/d/print/992007833503681) in Penn Libraries' Digital Collection of British and American Fiction. The original book is held by the Kislak Center for Special Collections (Penn Libraries, University of Pennsylvania).
 
 ---
+
+![title page Clara](https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=print_pr3291_c52_l47_1771_body0005&svc.level=3&svc.rotate=0)
 
 <a id="volume-i" />
 
