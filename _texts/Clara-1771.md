@@ -45,26 +45,16 @@ toc:
 
 ---
 
----
-
-![title page Clara](https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=print_pr3291_c52_l47_1771_body0005&svc.level=3&svc.rotate=0)
-
 <a href="#editors-note">Digital editor's note</a>
+
+---
 
 <a id="volume-i" />
 
-<p class="centered large">LETTERS FROM CLARA: OR, THE EFFUSIONS OF THE HEART.</p>
-
-<p class="centered">VOL. I. </p>
+<p class="centered">LETTERS FROM CLARA: OR, THE EFFUSIONS OF THE HEART. VOL. I. </p>
 
 <p class="centered small">LONDON: Printed for J. Wilkie, No. 71, in, St. Paul’s<br>
 Church Yard. 1771.</p>
-
-## Contents
-{:.no_toc}
-
-* ToC
-{:toc}
 
 ---
 
